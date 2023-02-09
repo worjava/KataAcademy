@@ -1,6 +1,6 @@
 package String;
 
-public class CatDog {
+public class ♦CatDog {
     public static void main(String[] args) {
         Dog dog = new Dog();
         Cat cat = new Cat();
